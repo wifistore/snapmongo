@@ -1,0 +1,6 @@
+server1:27017someport
+server2:27017someport
+server3:27017someport
+server1:27017someport
+server2:27017someport
+server3:27017someport
